@@ -1,0 +1,15 @@
+D:\WorkSpace\C#\WebScrapper\WebScrapper\obj\Debug\net6.0\WebScrapper.csproj.AssemblyReference.cache
+D:\WorkSpace\C#\WebScrapper\WebScrapper\obj\Debug\net6.0\WebScrapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\C#\WebScrapper\WebScrapper\obj\Debug\net6.0\WebScrapper.AssemblyInfoInputs.cache
+D:\WorkSpace\C#\WebScrapper\WebScrapper\obj\Debug\net6.0\WebScrapper.AssemblyInfo.cs
+D:\WorkSpace\C#\WebScrapper\WebScrapper\obj\Debug\net6.0\WebScrapper.csproj.CoreCompileInputs.cache
+D:\WorkSpace\C#\WebScrapper\WebScrapper\bin\Debug\net6.0\WebScrapper.exe
+D:\WorkSpace\C#\WebScrapper\WebScrapper\bin\Debug\net6.0\WebScrapper.deps.json
+D:\WorkSpace\C#\WebScrapper\WebScrapper\bin\Debug\net6.0\WebScrapper.runtimeconfig.json
+D:\WorkSpace\C#\WebScrapper\WebScrapper\bin\Debug\net6.0\WebScrapper.dll
+D:\WorkSpace\C#\WebScrapper\WebScrapper\bin\Debug\net6.0\WebScrapper.pdb
+D:\WorkSpace\C#\WebScrapper\WebScrapper\obj\Debug\net6.0\WebScrapper.dll
+D:\WorkSpace\C#\WebScrapper\WebScrapper\obj\Debug\net6.0\refint\WebScrapper.dll
+D:\WorkSpace\C#\WebScrapper\WebScrapper\obj\Debug\net6.0\WebScrapper.pdb
+D:\WorkSpace\C#\WebScrapper\WebScrapper\obj\Debug\net6.0\WebScrapper.genruntimeconfig.cache
+D:\WorkSpace\C#\WebScrapper\WebScrapper\obj\Debug\net6.0\ref\WebScrapper.dll
